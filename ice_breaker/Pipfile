@@ -12,6 +12,7 @@ blask = "*"
 black = "*"
 python-dotenv = "*"
 langchain-ollama = "*"
+tweepy = "*"
 
 [dev-packages]
 
