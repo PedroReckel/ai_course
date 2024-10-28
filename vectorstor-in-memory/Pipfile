@@ -5,15 +5,13 @@ name = "pypi"
 
 [packages]
 langchain = "*"
+pypdf = "*"
 langchain-openai = "*"
-python-dotenv = "*"
-langchainhub = "*"
-black = "*"
-pinecone = "*"
-langchain-pinecone = "*"
 langchain-community = "*"
+langchainhub = "*"
+faiss-cpu = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.10"
+python_version = "3.12"
